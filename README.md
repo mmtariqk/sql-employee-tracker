@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1k_s1uB9jUfrUN2H-aAvA4F9t5-pMbPCw/view
 
 
 ## Technologies and Resources used in app
-Mysql2/mysql, Node JS, Inquirer and MySQL Workbench as a GUI. 
+Mysql2/mysql, Node JS, Inquirer and MySQL Workbench as a GUI for SQL quaries. 
 
 ## Installation
 
