@@ -1,0 +1,19 @@
+{
+  "name": "mysql-emp-tracker",
+  "version": "1.0.0",
+  "description": "## Table of Contents:   1. [Description](#description)    2. [Installation](#Installation)   3. [Usage](#Usage)     4. [Contributing](#Contributing)   5. [Tests](#Tests)   6. [License](#License)   7. [GitHub](#GitHub)   8. [E-mail](#E-mail)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  }
+}
