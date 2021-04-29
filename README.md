@@ -21,3 +21,8 @@ Clone the Repository to your local computer, Install requires NPM Packages & Dep
 
 
 ## Screenshots
+<img width="1020" alt="s-1" src="https://user-images.githubusercontent.com/77028806/116487421-c1f16f80-a844-11eb-9da0-7b69153590bf.png">
+
+<img width="877" alt="s-2" src="https://user-images.githubusercontent.com/77028806/116487431-c9187d80-a844-11eb-864b-dcae187891f7.png">
+
+<img width="1216" alt="s-3" src="https://user-images.githubusercontent.com/77028806/116487442-d0d82200-a844-11eb-9ee5-5d1f169e97fe.png">
